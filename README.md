@@ -17,7 +17,7 @@ Look up a job by industry and experience level to find the job that be best suit
 
 ## Credits
 * Mario Bruno: Wireframing, HTML, & CSS styling 
-* Olsen Ogouchi: Muse & Google Maps API & Local storage
+* Olsen Ogouchi: Muse & Google Maps API & Local Storage
 * Matthew Flanagan: Repository, CSS, Functionality, & README
 * Yanghui Xi: Muse & Jooble API
 
