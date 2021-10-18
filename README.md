@@ -23,7 +23,7 @@ Look up a job by industry and experience level to find the job that be best suit
 
 ## License
 MIT License
-Copyright (c) [2021] [matthewflanagan]
+Copyright (c) [2021] [OlsenOgouchi]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -46,7 +46,7 @@ If you created an application or package and would like other developers to cont
 ## License
 MIT License
 
-Copyright (c) [2021] [matthewflanagan]
+Copyright (c) [2021] [OlsenOgouchi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
